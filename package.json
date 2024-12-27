@@ -1,0 +1,11 @@
+{
+  "name": "lfhuang",
+  "version": "1.0.1",
+  "main": "loadPrivate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lfhuang",
+  "license": "ISC",
+  "description": "Load the private key store file"
+}
