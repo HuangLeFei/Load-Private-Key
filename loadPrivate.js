@@ -2,7 +2,7 @@ require('dotenv').config();
 const { Wallet } = require('ethers');
 const fs = require('fs');
 
-const keystorePath = process.env.KEYSTONE_PATH || '';
+const keystorePath = process.env.KEYSTORE_PATH || '';
 const password = 'hlf';
 
 function getPrivateKeyFromKeystore() {
